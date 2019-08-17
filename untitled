@@ -1,0 +1,32 @@
+Jupyter Notebook
+Untitled1
+Last Checkpoint: 30 minutes ago
+(autosaved)
+Current Kernel Logo
+Python 3 
+File
+Edit
+View
+Insert
+Cell
+Kernel
+Widgets
+Help
+
+print("Hello World")
+Hello World
+]
+x=[1,2,3,4,5]
+x
+list(x)
+[1, 2, 3, 4, 5]
+y=[6,7,8,9,10]
+import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
+Graph
+plt.plot(x,y,label="Graph")
+[<matplotlib.lines.Line2D at 0x1618ec9b5c0>]
+
+​
+#5
+
